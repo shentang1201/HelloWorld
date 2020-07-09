@@ -2,4 +2,4 @@
 
 [线程学习笔记](线程学习.md)
 
-[Reds学习笔记](redis.md)
+[Redis学习笔记](Redis.md)
